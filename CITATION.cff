@@ -1,1 +1,17 @@
-
+cff-version: 1.1.0
+message: If you use this software, please cite it as below.
+authors:
+  - name: RegulonDB
+    country: MX
+    email: regulondb@ccg.unam.mx
+    website: http://regulondb.ccg.unam.mx/
+date-released: YYYY-MM-DD
+doi: example 10.5281/zenodo.1003150
+identifiers: 
+  - type: "other"
+    value: "[id]"
+license: GPL-3.0-only
+repository-code: https://github.com/regulondbunam/[repository]
+title: MultigenomicModel
+url: http://regulondb.ccg.unam.mx/
+version: 0.0.0
