@@ -20,17 +20,17 @@
 
 
 
-#Quick start
+# Quick start
 
 [How the first task can be performed with the software, or, in the more extensive  documentation, a link to the quick start. Outlines how to quickly get started with the software using a basic yet practical example]
 
 
 
-#Project website 
+# Project website 
 
 [Website where the software is described and allows users to obtain it as well as its documentation.]
 
-#License
+# License
 
 [Defines the set of rules and conditions for people who want to use the software.]
 
