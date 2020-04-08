@@ -82,13 +82,13 @@
 **Analysability**
 
 - [ ] Source code structured
-
 - [ ] Sensible names
 - [ ] Coding standards
 
 **Changeability**
 
 - [ ] CONTRIBUTING file
+- [ ] Code of Conduct file
 - [ ] Code changes, and their authorship, publicly visible
 
 **Reusability**
