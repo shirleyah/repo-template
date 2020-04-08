@@ -59,6 +59,10 @@
 
 - [ ] INSTALL file
 
+**Installability**
+
+- [ ] README file
+
 **Identity**
 
 - [ ] Website
