@@ -32,3 +32,7 @@ $ command
 - ### Dependencies
 
 [All required or optional dependencies should be listed, including those by third parties (with references to their websites).]
+
+
+- ### Errors & Tips
+[Describe possible errors that can be occur during the installation software and their solution.]
