@@ -7,8 +7,17 @@
 [Describe installation instructions of the software..
 
 1. Step 1
+Execute:
+
+```shell
+$ command
+```
 2. Step 2
 3. Step x
+
+```shell
+$ command
+```
 
 ]
 
