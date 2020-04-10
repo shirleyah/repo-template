@@ -23,9 +23,9 @@ $ command
 
 
 
-- ### Folder Structure 
+- ### Expected Directory Structure 
 
-[Describe the content of the package when the software is installed. It should be properly organised in sub-directories (for documentation, headers, source, etc.]
+[Directory structure after installation. It should be properly organised in sub-directories (for documentation, headers, source, etc.]
 
 
 
