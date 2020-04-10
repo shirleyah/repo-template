@@ -14,12 +14,12 @@
 
 
 
-- ###Folder Structure 
+- ### Folder Structure 
 
 [Describe the content of the package when the software is installed. It should be properly organised in sub-directories (for documentation, headers, source, etc.]
 
 
 
-- ###Dependencies
+- ### Dependencies
 
 [All required or optional dependencies should be listed, including those by third parties (with references to their websites).]
