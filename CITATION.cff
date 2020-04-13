@@ -12,6 +12,6 @@ identifiers:
     value: "[id]"
 license: [example: GPL-3.0-only]
 repository-code: https://github.com/regulondbunam/[repository]
-title: [examploe: MultigenomicModel]
+title: [example: MultigenomicModel]
 url: http://regulondb.ccg.unam.mx/
 version: 0.0.0
