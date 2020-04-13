@@ -44,7 +44,7 @@
 
 **Accessibility**
 
-- [ ] [Unique DOI](http://....)
+- [ ] Unique DOI [identifier](http://....) Please update identifier and link
 - [ ] Version control system
 
 **Documentation**
