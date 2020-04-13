@@ -83,7 +83,7 @@
 
 - [ ] Source code structured
 - [ ] Sensible names
-- [ ] Coding standards
+- [ ] Coding standards - [style guides](http://google.github.io/styleguide/)
 
 **Changeability**
 
