@@ -4,7 +4,7 @@
 
 - ## Installation instructions
 
-[Describe installation instructions of the software..
+[Describe installation instructions of the software.]
 
 1. Step 1
 Execute:
@@ -18,9 +18,6 @@ $ command
 ```shell
 $ command
 ```
-
-]
-
 
 
 - ### Expected Directory Structure 
