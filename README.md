@@ -44,7 +44,7 @@
 
 **Accessibility**
 
-- [ ] Unique DOI
+- [ ] [Unique DOI](http://....)
 - [ ] Version control system
 
 **Documentation**
