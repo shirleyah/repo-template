@@ -36,7 +36,7 @@
 
 # Support contact information
 
-[It should be clear where to go for support, for example a contact e-mail address]
+[It should be clear where to go for support, for example a contact e-mail address.]
 
 # Software quality checklist
 
