@@ -36,7 +36,7 @@
 
 # Support contact information
 
-[It should be clear where to go for support, for example a contact e-mail.]
+[It should be clear where to go for support, for example: alquicir@ccg.unam.mx.]
 
 # Software quality checklist
 
